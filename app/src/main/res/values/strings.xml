@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Seja Bem Vindo ao Nosso App</string>
+    <string name="entrar">Entrar</string>
+    <string name="somar_numeros">Somar Números</string>
+    <string name="subtrair_numeros">Subtrair Números</string>
+    <string name="multiplicar_numeros">Multiplicar Números</string>
+    <string name="dividir_numeros">Dividir Números</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="et_numero1_hint">Digite o primeiro número</string>
+    <string name="et_numero2_hint">Digite o segundo número</string>
+    <string name="calcular">Calcular</string>
+    <string name="voltar">Voltar</string>
+    <string name="et_media_km_hint">Média de KM/L</string>
+    <string name="et_valor_litro_hint">Valor do Litro de Combustível</string>
+    <string name="et_distancia_hint">Distância (KM)</string>
+    <string name="viagem">Viagem</string>
+</resources>
